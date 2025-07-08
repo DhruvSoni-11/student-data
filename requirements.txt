@@ -1,0 +1,3 @@
+streamlit
+mysql-connector-python
+python-dotenv  # (Optional, if using environment variables)
