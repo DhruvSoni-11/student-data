@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Form App
 
 A Streamlit web app to collect student data and store it in MySQL.
@@ -11,3 +12,7 @@ A Streamlit web app to collect student data and store it in MySQL.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+=======
+# student-data
+A Streamlit app for student data submission with MySQL integration.
+>>>>>>> 4a0f4c2588f4d72fce33a81393c368ecbebfc604
